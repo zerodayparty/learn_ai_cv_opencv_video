@@ -263,3 +263,6 @@ uploads/
 !.gitignore
 _record
 
+
+# 생성된 테스트 영상(용량 큼, tools/make_test_videos.py로 재생성)
+assets/videos/
